@@ -4,11 +4,11 @@
   "description": "ng-jcrop",
   "main": "ng-jcrop.js",
   "dependencies": {
-    "karma": "~0.12.21",
+    "karma": "~5.0.8",
     "bower": "~1.3.9"
   },
   "devDependencies": {
-    "karma": "~0.12.21",
+    "karma": "~5.0.8",
     "karma-chrome-launcher": "~0.1.4",
     "karma-jasmine": "~0.1.5",
     "karma-phantomjs-launcher": "~0.1.4",
